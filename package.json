@@ -1,0 +1,32 @@
+{
+	"name": "theme-muruke",
+	"displayName": "Muruke",
+	"description": "Muruke color theme",
+	"version": "0.1.0",
+	"publisher": "lukem",
+	"engines": {
+		"vscode": "^1.12.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Muruke",
+				"uiTheme": "vs-dark",
+				"path": "./theme/muruke.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"homepage": "",
+	"__metadata": {
+		"id": "3cebe58e-ea14-4345-8a66-149af6bdb59e",
+		"publisherId": "2fe8c7b7-9924-4083-be3d-b934de84a1e0",
+		"publisherDisplayName": "Marcus Kazmierczak"
+	}
+}
